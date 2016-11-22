@@ -1,8 +1,3 @@
-
-# hello-world
-
-CSCI Student in a Software Engineering course.
-
 # UPDATE LOG:
 
 UPDATE 11.14.2150: Updated art asset part with Knight included and Bishop movement fixed. [AND]
