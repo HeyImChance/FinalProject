@@ -13,3 +13,5 @@ UPDATE 11.22.1042: Properly empties spots now. [AND]
 UPDATE 11.22.1119: Re-adjusted image source location; added some blue assests. [AND]
 
 UPDATE 11.22.1140: Pawn movement fixed for both sides. Blue bishop added. [AND]
+
+UPDATE 11.27.1317: Constructors added. Golden General added. [AND]
