@@ -15,3 +15,5 @@ UPDATE 11.22.1119: Re-adjusted image source location; added some blue assests. [
 UPDATE 11.22.1140: Pawn movement fixed for both sides. Blue bishop added. [AND]
 
 UPDATE 11.27.1317: Constructors added. Golden General added. [AND]
+
+UPDATE 11.29.0118: Can recognize sides now- but everyone can still jump. [AND]
