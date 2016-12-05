@@ -17,3 +17,5 @@ UPDATE 11.22.1140: Pawn movement fixed for both sides. Blue bishop added. [AND]
 UPDATE 11.27.1317: Constructors added. Golden General added. [AND]
 
 UPDATE 11.29.0118: Can recognize sides now- but everyone can still jump. [AND]
+
+UPDATE 12.05.1751: Updated art assets (legal move and capture), added art for G.General and adjust/added Pawn/Lancer. [AND]
