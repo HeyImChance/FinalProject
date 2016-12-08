@@ -19,3 +19,5 @@ UPDATE 11.27.1317: Constructors added. Golden General added. [AND]
 UPDATE 11.29.0118: Can recognize sides now- but everyone can still jump. [AND]
 
 UPDATE 12.05.1751: Updated art assets (legal move and capture), added art for G.General and adjust/added Pawn/Lancer. [AND]
+
+UPDATE 12.07.2326: Added sorceress, dragon, and silver general pieces. Fixed Lancer movement (not capture for this piece not implemented right). [AND]
